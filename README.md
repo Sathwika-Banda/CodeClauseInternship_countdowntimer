@@ -1,1 +1,1 @@
-# countdowntimer
+countdowntimer that counts down from a specified time and alerts you when the time is up.It's a handy tool for keeping track of time durng various activities.It helps to manage time effectively,productively and stay organized.
